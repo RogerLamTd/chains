@@ -19664,7 +19664,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.mainnet.taiko.xyz", "wss://ws.mainnet.taiko.xyz"],
+  "rpc": ["https://rpc.mainnet.taiko.xyz"],
   "faucets": [],
   "infoURL": "https://taiko.xyz"
 }, {
@@ -21966,6 +21966,19 @@
     "decimals": 18
   },
   "rpc": ["https://automata-testnet.alt.technology"],
+  "faucets": [],
+  "infoURL": "https://ata.network"
+}, {
+  "name": "Automata Orbit Testnet",
+  "chainId": 1398244,
+  "shortName": "automataorbittestnet",
+  "networkId": 1398244,
+  "nativeCurrency": {
+    "name": "ATA",
+    "symbol": "ATA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-orbit-testnet.ata.network"],
   "faucets": [],
   "infoURL": "https://ata.network"
 }, {
