@@ -24556,7 +24556,7 @@
   "faucets": [],
   "infoURL": "https://taiko.xyz"
 }, {
-  "name": "Taiko Hekla",
+  "name": "Taiko Hekla (deprecated)",
   "chainId": 167009,
   "shortName": "tko-hekla",
   "networkId": 167009,
@@ -24565,7 +24565,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.hekla.taiko.xyz", "wss://ws.hekla.taiko.xyz", "https://taiko-hekla-rpc.publicnode.com", "wss://taiko-hekla-rpc.publicnode.com"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://taiko.xyz"
 }, {
