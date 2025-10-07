@@ -983,6 +983,14 @@
     "format": "png"
   }]
 }, {
+  "name": "doma",
+  "icons": [{
+    "url": "ipfs://bafkreifurplvrlawl2ib2snx6sr5jmkkg2vdnegb7ettz2am4ge42blhn4",
+    "width": 2000,
+    "height": 2000,
+    "format": "png"
+  }]
+}, {
   "name": "orl",
   "icons": [{
     "url": "ipfs://QmNsuuBBTHErnuFDcdyzaY8CKoVJtobsLJx2WQjaPjcp7g",
@@ -1269,6 +1277,14 @@
     "width": 140,
     "height": 140,
     "format": "svg"
+  }]
+}, {
+  "name": "nitrograph",
+  "icons": [{
+    "url": "ipfs://bafkreiglhsp6p2jthyaballkavwmpxwgenktcid6zy5cusd5bg6qafw7wy",
+    "width": 474,
+    "height": 474,
+    "format": "png"
   }]
 }, {
   "name": "vectorsmartgas",
@@ -1735,6 +1751,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "giwaTestnet",
+  "icons": [{
+    "url": "ipfs://bafkreie3xhbmcwv5qqopq7ak5n5wmqncy6ewnxgi772vytmssmqrubngbm",
+    "width": 128,
+    "height": 128,
+    "format": "svg"
+  }]
+}, {
   "name": "reactive",
   "icons": [{
     "url": "ipfs://bafkreih2sitkbspgnboiwga7k4zwz22h4u3qqpswxdr3miqtdwuovw2cte",
@@ -2061,6 +2085,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "quai",
+  "icons": [{
+    "url": "ipfs://bafkreih5hekf3lfvpbjcjlswylc6r3a4nbkogeesrf2pdtrhrwuy4a76cm",
+    "width": 500,
+    "height": 500,
+    "format": "svg"
   }]
 }, {
   "name": "abey",
@@ -3937,9 +3969,9 @@
 }, {
   "name": "electroneum",
   "icons": [{
-    "url": "ipfs://QmVgFqXA3kkCrVYGcWFF7Mhx8JUSe9vSCauNamuKWSvCym",
-    "width": 1000,
-    "height": 1000,
+    "url": "ipfs://bafkreiefr7p63cufa53rylql4megu6mbe2fksl45fkbo4jkpt2pyy3q5xm",
+    "width": 647,
+    "height": 765,
     "format": "png"
   }]
 }, {
@@ -5895,6 +5927,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lukso-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreih5ws7esaru5k4crjekr3d27jbjmikjtxwswu7r34yofyzqywiadi",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
+  }]
+}, {
   "name": "nexis",
   "icons": [{
     "url": "ipfs://QmdJwWuMgbhoZhgFM4zWrZne6qs5ktcL1vBLKX12VGgALM",
@@ -6044,6 +6084,14 @@
     "url": "ipfs://bafkreiapf66dn4de4dz2oyn63y3bpafm5f6pne4gxtufapd452c4ruzj5a",
     "width": 191,
     "height": 191,
+    "format": "png"
+  }]
+}, {
+  "name": "injective",
+  "icons": [{
+    "url": "ipfs://bafybeiee2qhggsx77ssjqhz5m4lnfpvtzsqlygrgtfxdpefxwrrhg52mr4",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -6620,6 +6668,14 @@
     "url": "ipfs://QmdiEBREiSP9TBHqxV8Ap3kehvBktBWFCpXs3mkC4e18zM",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "nom",
+  "icons": [{
+    "url": "ipfs://QmVfJBGe7JpKJhG8hrSMU42RxhCSQ3ga3NSArA9vEFqF4C",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -7207,6 +7263,14 @@
     "format": "png"
   }]
 }, {
+  "name": "hyperagi",
+  "icons": [{
+    "url": "ipfs://bafkreihl6c22tj2cmo3ngsswaa42y2pnbhqwvo4pb4ktia6dasl6sldosi",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "universe",
   "icons": [{
     "url": "ipfs://bafkreif53g2ynhznaqs5y5fxnj5ub3rfrwfsmvsyw23od3clmevnjqw46e",
@@ -7441,10 +7505,10 @@
 }, {
   "name": "lukso",
   "icons": [{
-    "url": "ipfs://Qmeg9sFF5tAGi6MCx7YjtVHW6a23zqvHRK1xwzSdp9iE7z",
+    "url": "ipfs://bafkreid3bbfc4jgzcurebnn6vwjcp6gxwewqpjep4nouqkq4k4jlmsldpy",
     "width": 512,
     "height": 512,
-    "format": "png"
+    "format": "svg"
   }]
 }, {
   "name": "altb",
@@ -7532,6 +7596,14 @@
     "url": "ipfs://bafkreidvjcc73v747lqlyrhgbnkvkdepdvepo6baj6hmjsmjtvdyhmzzmq",
     "width": 1000,
     "height": 1206,
+    "format": "png"
+  }]
+}, {
+  "name": "silentdata",
+  "icons": [{
+    "url": "ipfs://QmYcpfy4jVw2VKa63jzjYHEXLr3ytGjYKgTNNmoC7ejxyi",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -8613,6 +8685,14 @@
     "width": 800,
     "height": 800,
     "format": "svg"
+  }]
+}, {
+  "name": "silentdata-testnet",
+  "icons": [{
+    "url": "ipfs://QmVmh384UGF5ecanRufkxNXdDb5ps1HKfJnAYjUjR2A8QB",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
   }]
 }, {
   "name": "layerEdge",
