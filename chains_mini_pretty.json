@@ -24583,9 +24583,9 @@
   "infoURL": "https://taiko.xyz"
 }, {
   "name": "Taiko Hoodi",
-  "chainId": 167012,
+  "chainId": 167013,
   "shortName": "tko-hoodi",
-  "networkId": 167012,
+  "networkId": 167013,
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",
